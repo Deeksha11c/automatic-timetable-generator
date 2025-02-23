@@ -1,4 +1,4 @@
-#automatic-timetable-generator 
+#automatic-timetable-generator (team name :Triple stack)
 ----------------------------------------------------------------------------------------------------------------------------
 ### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`
 
