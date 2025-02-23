@@ -1,6 +1,11 @@
 #automatic-timetable-generator 
 ----------------------------------------------------------------------------------------------------------------------------
-### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`.
+### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`
+
+#### team members :
+Deeksha.c
+chaitra.p
+charvita rao pawar
 
   A wrorking version of the prototype:- ['automatic-timetable-generator'] 
  #### Dependencies:
