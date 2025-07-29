@@ -5,7 +5,7 @@
 #### team members :
 1.[Deeksha.c] (https://github.com/Deeksha11c) <br>
 2.[Chaitra.P] (https://github.com/Cha-itraP) <br>
-3.[Charvita Rao Pavar] ( )<br>
+3.[Charvita Rao Pavar] (https://github.com/charvita )<br>
   A wrorking version of the prototype:- ['automatic-timetable-generator'] 
  #### Dependencies:
  1. python3.6 or above
