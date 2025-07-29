@@ -3,7 +3,7 @@
 ### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`
 
 #### team members :
-1.Deeksha.c ,
+1.[Deeksha.c] (    )<br>
 2.chaitra.p ,
 3.charvita rao pavar
 
