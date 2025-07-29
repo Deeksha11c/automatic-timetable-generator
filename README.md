@@ -3,10 +3,9 @@
 ### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`
 
 #### team members :
-1.[Deeksha.c] (    )<br>
-2.chaitra.p ,
-3.charvita rao pavar
-
+1.[Deeksha.c] (https://github.com/Deeksha11c) <br>
+2.[Chaitra.P] (https://github.com/Cha-itraP) <br>
+3.[Charvita Rao Pavar] ( )<br>
   A wrorking version of the prototype:- ['automatic-timetable-generator'] 
  #### Dependencies:
  1. python3.6 or above
